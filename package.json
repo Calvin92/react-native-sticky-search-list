@@ -1,0 +1,25 @@
+{
+  "name": "react-native-sticky-search-list",
+  "version": "1.0.0",
+  "description": "A sticky-search-list for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "sticky",
+    "search",
+    "list",
+    "letter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Calvin92/react-native-sticky-search-list.git"
+  },
+  "author": "Calvin92",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
