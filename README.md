@@ -42,15 +42,19 @@ const data = [
 ```
 
 ** searchBarWidth **
+
 `number`  The width of searchBar
 
 ** renderRow **
+
 `function`  the renderRow function for `ListView`
 
 ** searchBarTextStyle **
+
 `object` the style of search-bar text
 
 ** searchBarBackgroundColor **
+
 `string` the background color of search-bar
 
 ## Example
