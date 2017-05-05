@@ -15,7 +15,7 @@ import StickySearchList from 'react-native-sticky-search-list'
 ```
 
 ### Props
-** data **
+**data**
 dataSource like below:
 ```
 const data = [
@@ -41,19 +41,19 @@ const data = [
 ]
 ```
 
-** searchBarWidth **
+**searchBarWidth**
 
 `number`  The width of searchBar
 
-** renderRow **
+**renderRow**
 
 `function`  the renderRow function for `ListView`
 
-** searchBarTextStyle **
+**searchBarTextStyle**
 
 `object` the style of search-bar text
 
-** searchBarBackgroundColor **
+**searchBarBackgroundColor**
 
 `string` the background color of search-bar
 
