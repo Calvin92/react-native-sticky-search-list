@@ -130,3 +130,6 @@ const styles = StyleSheet.create({
 AppRegistry.registerComponent('AotuDemo2', () => AotuDemo2);
 
 ```
+
+## Screen Shot
+![](https://github.com/Calvin92/react-native-sticky-search-list/blob/master/screenshot.png)
