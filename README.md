@@ -16,6 +16,7 @@ import StickySearchList from 'react-native-sticky-search-list'
 
 ### Props
 **data**
+
 dataSource like below:
 ```
 const data = [
