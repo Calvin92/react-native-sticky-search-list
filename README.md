@@ -1,7 +1,9 @@
 ## Introduction
-Like `All Contacts` in the iPhone contacts appliction, you can use `react-native` to implement a `All Contacts`-like list with this module. You can index by first letter ([A...Z]) split up sections.
+Indexed by first letter ([A-Z]), you are able to find the section quickly by touching first letter of the section -- just like `All Contacts` in the iPhone contacts appliction.
 
-类似于在`iPhone`上的`通讯录`的联系人列表，你能使用`react-native`实现一个类似的列表。通过[A...Z]等索引到相应的区块。
+This is the `react-native` implementation, feel free to pull request.
+
+类似于在`iPhone`上的`通讯录`的联系人列表，你能使用`react-native`实现一个类似的列表。通过[A-Z]等索引到相应的区块。
 
 ## Usage
 First, install this module：
