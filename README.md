@@ -19,7 +19,7 @@ import StickySearchList from 'react-native-sticky-search-list'
 ### Props
 **data**
 
-The Shape of dataSource as below:
+The shape of dataSource as below:
 ```
 const data = [
   {A: [1, 2, 3]},
